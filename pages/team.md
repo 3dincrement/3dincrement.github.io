@@ -25,14 +25,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 ">
 <div class="row">
-	<div class="col-sm-3 center-block"><br>
+	<div class="col-sm-3 col-sm-push-1 center-block"><br>
 		<a href="{{ site.url }}{{ site.baseurl }}/member/{{ member.name }}"  >	
 		<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class=" img-responsive img-rounded"/></a>
 	</div>
-	<div class="col-sm-9">
+	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
 	  <i>{{ member.info }}<br>email: {{ member.email }}<br>github: {{ member.github }}</i>
-	  <ul style="overflow: hidden">
+	</div>
+</div>
+<br>
+ <ul style="overflow: hidden">
 	  
 	  {% if member.number_educ == 1 %}
 	  <li> {{ member.education1 }} </li>
@@ -64,9 +67,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 	  <li> {{ member.education5 }} </li>
 	  {% endif %}
 	  
-	  </ul>
-	</div>
-</div>	
+	  </ul>	
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
