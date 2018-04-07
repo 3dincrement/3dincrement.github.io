@@ -109,8 +109,8 @@ disqus:
 gitalk:
     owner:  3dincrement18
     repo: 3dincrement18.github.io
-    clientID: 759a26467899e14ebe59
-    clientSecret: f3312d81d2e181054a59b7cde1f78a03b4a0d6b0
+    clientID: 4d91a39cdac5f453e649
+    clientSecret: bb30411e254623dadddb4591274822f07ec0cd18
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
