@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: 3D Increment
 organization: 3D Increment
 organization_url: https://3dincrement18.github.io
-github_username: 3dincrement
+github_username: 3dincrement18
 location: Qingdao, China
 email: 3dincremnt@gmail.com
 
@@ -86,7 +86,7 @@ collections:
         output: true
         permalink: /member/:path/
 
-repository: 3dincrement/3dincrement.github.io
+repository: 3dincrement18/3dincrement18.github.io
 
 # ---------------- #
 #      Comments    #
@@ -107,7 +107,7 @@ disqus:
 #        client_secret: 0696db07ba2897d037fcac78c3575d317ce990c6
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner:  3dincrement
+    owner:  3dincrement18
     repo: 3dincrement18.github.io
     clientID: 759a26467899e14ebe59
     clientSecret: f3312d81d2e181054a59b7cde1f78a03b4a0d6b0
