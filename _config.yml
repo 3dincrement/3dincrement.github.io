@@ -108,9 +108,9 @@ disqus:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner:  3dincrement
-    repo: 3dincrement.github.io
-    clientID: 6378910390d28bca398e
-    clientSecret: d35e0bd679e85ec6961c89bf96d5704939dd894e
+    repo: 3dincrement18.github.io
+    clientID: 759a26467899e14ebe59
+    clientSecret: f3312d81d2e181054a59b7cde1f78a03b4a0d6b0
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
