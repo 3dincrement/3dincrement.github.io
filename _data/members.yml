@@ -12,7 +12,7 @@
   photo: yanxinpic.JPG
   info: 博士在读
   email: io.yanxin@gmail.com
-  github: 3dincrement.github.io
+  github: RingedNebulae
   number_educ: 3
   education1: 学士 2010-2014 山东大学 机械设计及其自动化
   education2: 硕士 2014-2017 山东大学 机械电子工程 导师： <a href="http://www.mech.sdu.edu.cn/info/1127/121172.htm">张承瑞</a>
@@ -22,7 +22,7 @@
   photo: LiuLin.jpg
   info: 硕士在读
   email: lorrain0407@gmail.com
-  github: lorrain0407.github.io
+  github: lorrain0407
   number_educ: 2
   education1: 学士 2012-2016 山东科技大学 数字媒体技术
   education2: 硕士 2016-     山东大学 软件工程 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
@@ -39,7 +39,7 @@
 - name: 杨静如
   photo: jingru.png
   info: 硕士在读
-  email: djingru.jem@gmail.com
+  email: jingru.jem@gmail.com
   github: JemRu
   number_educ: 2
   education1: 学士 2013-2017 山东大学 计算科学与技术
@@ -70,7 +70,16 @@
   github: swannyPeng
   number_educ: 2
   education1: 本科   2013-2017 山东大学 计算机科学与技术
-  education2: 研究生 2017-     山东大学 计算机科学与技术 导师:<a href="https://vr.sdu.edu.cn/~lulin/">吕琳<\a>
+  education2: 研究生 2017-     山东大学 计算机科学与技术 导师： <a href="https://vr.sdu.edu.cn/~lulin/">吕琳</a>
+
+- name: 田李昊
+  photo: tlh.png
+  info: 本科在读
+  email: tianlihao0420@gmail.com
+  github: TianliHao
+  number_educ: 2
+  education1: 本科 2014-2018 山东大学 泰山学堂
+  education2: 硕士 2018- 山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
 
 - name: 陈明海
   photo: cmh.jpeg
