@@ -1,94 +1,82 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: 吕琳
+  photo: lvlin.jpg
+  info: 副教授
+  email: lulin.linda@gmail.com
+  github: lulinlinda
+  number_educ: 3
+  education1: 学士 1998-2002 山东大学 计算机科学与技术
+  education2: 硕士 2002-2005 山东大学 计算机科学与技术
+  education3: 博士 2005-2011 香港大学 导师： <a href="http://i.cs.hku.hk/~wenping/">王文平</a>
  
 - name: 闫鑫
   photo: yanxinpic.JPG
-  info: 博士研究生
+  info: 博士在读
   email: io.yanxin@gmail.com
   github: 3dincrement.github.io
   number_educ: 3
-  education1: 本科 2010-2014 山东大学 机械设计及其自动化
+  education1: 学士 2010-2014 山东大学 机械设计及其自动化
   education2: 硕士 2014-2017 山东大学 机械电子工程 导师： <a href="http://www.mech.sdu.edu.cn/info/1127/121172.htm">张承瑞</a>
-  education3: 博士 2017- 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education3: 博士 2017-     山东大学 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
  
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+- name: 刘霖
+  photo: LiuLin.jpg
+  info: 硕士在读
+  email: lorrain0407@gmail.com
+  github: lorrain0407.github.io
+  number_educ: 2
+  education1: 学士 2012-2016 山东科技大学 数字媒体技术
+  education2: 硕士 2016-     山东大学 软件工程 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+
+- name: 刘晓康
+  photo: lxk.jpg
+  info: 硕士在读
+  email: lxk811@gmail.com
+  github: LLLiuxk 
+  number_educ: 2
+  education1: 学士 2012-2016 郑州大学 计算机科学与技术
+  education2: 硕士 2016-     导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
  
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  
- - name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  github: 3dincrement.github.io
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: 研究生在读
-  email: jingru.jem@gmail.com
-  github: https://github.com/JemRu
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  
- - name: 杨静如
+- name: 杨静如
   photo: jingru.png
-  info: 研究生在读
+  info: 硕士在读
   email: djingru.jem@gmail.com
   github: JemRu
-  number_educ: 4
-  education1: 本科 2013-2017 山东大学 计算科学与技术
-  education2: 硕士 2017- 山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  number_educ: 2
+  education1: 学士 2013-2017 山东大学 计算科学与技术
+  education2: 硕士 2017-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  
+- name: 徐凡
+  photo: xufan.jpg
+  info: 硕士在读
+  email: xufan.cs, irc@gmail.com
+  github: duoyikeladetang
+  number_educ: 2
+  education1: 学士 2013-2017 山东大学 软件工程
+  education2: 硕士 2013-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
 
+- name: 饶聪
+  photo: raocong.jpg
+  info: 硕士在读
+  email: raocong95@gmail.com
+  github: raocong95
+  number_educ: 2
+  education1: 学士 2013-2017 山东大学 计算机科学与技术
+  education2: 硕士 2017-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+
+- name: 彭昊
+  photo: penghao.jpg
+  info: 硕士在读
+  email: ph1994wh@gmail.com
+  github: swannyPeng
+  number_educ: 2
+  education1: 本科   2013-2017 山东大学 计算机科学与技术
+  education2: 研究生 2017-     山东大学 计算机科学与技术 导师:<a href="https://vr.sdu.edu.cn/~lulin/">吕琳<\a>
+
+- name: 陈明海
+  photo: cmh.jpeg
+  info: 本科在读
+  email: nevre0598@gmail.com
+  github: nevre
+  number_educ: 2
+  education1: 学士 2014-2018 山东大学 数字媒体技术
+  education2: 硕士 2018-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>

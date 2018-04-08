@@ -3,7 +3,7 @@ permalink: /
 ---
 # Welcome to 3D increment
 
-We provide compiled CSS and JS (bootstrap.*), as well as compiled and minified CSS and JS (bootstrap.min.*). CSS source maps (bootstrap.*.map) are available for use with certain browsers' developer tools. Bundled JS files (bootstrap.bundle.js and minified bootstrap.bundle.min.js) include Popper, but not jQuery.
+2018年3月，3D打印创新团队成立了！我们的团队由山东大学吕琳副教授带领，是一支致力于提供3D打印设计与制造解决方案的创新创业团队。依托于山东大学3D打印与增材制造资源，我们的团队面向客户需求提供包括3D打印设计与制造的一体化解决方案。近两年，我们的团队已经申请3D打印与增材制造领域专利多项，已投顶级会议或期刊论文若干篇。
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
