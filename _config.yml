@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://3dincrement18.github.io
+url: https://3dincrement.github.io
 date_format: "ordinal"
 title: 3D Increment
 subtitle: "3D 打印改变生活"
 description: "3D increment blog"
 keywords: 3D printing, increment, recruit
-#timezone: Asia/Shanghai
+timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: 3D Increment
 organization: 3D Increment
-organization_url: https://3dincrement18.github.io
-github_username: 3dincrement18
+organization_url: https://3dincrement.github.io
+github_username: 3dincrement
 location: Qingdao, China
 email: 3dincremnt@gmail.com
 
@@ -86,7 +86,7 @@ collections:
         output: true
         permalink: /member/:path/
 
-repository: 3dincrement18/3dincrement18.github.io
+repository: 3dincrement/3dincrement.github.io
 
 # ---------------- #
 #      Comments    #
@@ -107,7 +107,7 @@ disqus:
 #        client_secret: 0696db07ba2897d037fcac78c3575d317ce990c6
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 3dincrement
+    owner: 3dincrement18
     repo: team-chat
     clientID: 36b92cb13f5af8892386
     clientSecret: b6c8a835787656e41492826a847a70b408d40277
