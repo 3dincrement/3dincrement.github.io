@@ -37,3 +37,27 @@ Besides,为大家留了一个个人主页空间，在 \memeber\ 目录下建立�
 ### 成果
 成果页面在 \pages\publications.md 最好也改一下
 成果目前只做了论文部分，类似于团队，成果也是用YML维护的，位置在\_data\publists.yml 里面，具体用法参考已有实例。照片最好放teaser，否则太长了。pdf、video 最好在主目录下新建file video文件夹，然后链接
+
+### 更新内容两种方法
+###	推荐方法
+用自己账户fork repo [3dincrement18.github.io](https:// 3dincrement18.github.io)，修改完了之后pull request。这样做好处是不会发生版本冲突，也不会因为不适当修改崩溃
+
+###另一种方法
+直接git clone 到本地，修改后再提交上去。
+
+``` shell
+git clone --recursive https://github.com/3dincrement/3dincrement.github.io.git
+cd 3dincrement18.github.io
+git config user.name "3dincrement"
+git config user.email "3dincrement@gmail.com"
+...
+git add .
+git commit - m "some thing you what"
+git push origin master
+```
+然后会让你输账户密码，账户：3dincrement，密码：increment18
+
+
+
+
+
