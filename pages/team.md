@@ -32,7 +32,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
 	  <i>{{ member.info }}
-	  <br>email: <{{ member.email }}><br>github: <{{ member.github }}></i>
+	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="{{ member.github }}">{{ member.github }}</a></i>
 	</div>
 </div>
 <br>
