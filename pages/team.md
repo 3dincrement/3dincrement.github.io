@@ -31,7 +31,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 	</div>
 	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
-	  <i>{{ member.info }}<br>email: {{ member.email }}<br>github: {{ member.github }}</i>
+	  <i>{{ member.info }}
+	  <br>email: <{{ member.email }}><br>github: <{{ member.github }}></i>
 	</div>
 </div>
 <br>
