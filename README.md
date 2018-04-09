@@ -1,82 +1,66 @@
-# 码志
+---
+layout: wiki
+title: Guide
+categories: tools
+description: 主页、团队、成果维护指南
+keywords: Guide
+---
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+> 终于做的差不多了
 
-## 概览
+这次整理的主要是三部分 主页、团队、成果，这三部分都是用markdown维护的，只要修改对应markdown里面的内容就行
 
-<!-- vim-markdown-toc GFM -->
+### 主页
 
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [贴心提示](#贴心提示)
-* [经验与思考](#经验与思考)
-* [致谢](#致谢)
+主页的位置在 \pages\home.md, 我在主页里加了一个gallery，目前都是盗别人的图 图片的地址在 \images\slide里面，换掉就行。主页的内容有待丰满，谁有空帮忙更一下
 
-<!-- vim-markdown-toc -->
+### 团队
+团队页面在\pages\team.md 里面的内容也要做适当修改
 
-## 效果预览
+团队的主要信息是用YML维护的和markdown差不多，位置在 \_data\memebers.yml, 写法参照下面
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+``` html
+- name: Doohee Cho
+  photo: Doohee2.jpg
+  info: Postdoc, started May 2017
+  email: dooheecho80@gmail.com
+  github: 3dincrement.github.io
+  number_educ: 4
+  education1: B.S. Yonsei University, Korea
+  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
+  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
+  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+```
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+其中照片需要放在 images\teampic\ 里面, number_educ 不超过5。
 
-## Fork 指南
+Besides,为大家留了一个个人主页空间，在 \memeber\ 目录下建立和自己名字命名的markdown文件即可,附带留言功能， do whatever you want。
 
-Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
+### 成果
+成果页面在 \pages\publications.md 最好也改一下
 
-1. 正确设置项目名称与分支。
+成果目前只做了论文部分，类似于团队，成果也是用YML维护的，位置在\_data\publists.yml 里面，具体用法参考已有实例。照片最好放teaser，否则太长了。pdf、video 最好在主目录下新建file video文件夹，然后链接
 
-   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
+### 更新内容两种方法
+###	推荐方法
+用自己账户fork repo [3dincrement18.github.io](https:// 3dincrement18.github.io)，修改完了之后pull request。这样做好处是不会发生版本冲突，也不会因为不适当修改崩溃
 
-2. 修改域名。
+### 另一种方法
+直接git clone 到本地，修改后再提交上去。
 
-   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
+``` shell
+git clone --recursive https://github.com/3dincrement/3dincrement.github.io.git
+cd 3dincrement18.github.io
+git config user.name "3dincrement"
+git config user.email "3dincrement@gmail.com"
+...
+git add .
+git commit - m "some thing you what"
+git push origin master
+```
 
-3. 修改配置。
 
-   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
 
-   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
 
-4. 删除我的文章与图片。
 
-   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
-
-   * \_posts 文件夹中是我已发布的博客文章。
-   * \_drafts 文件夹中是我尚未发布的博客文章。
-   * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * images 文件夹中是我的文章和页面里使用的图片。
-
-5. 修改「关于」页面。
-
-   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
-
-## 贴心提示
-
-1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
-
-2. 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
-
-## 经验与思考
-
-* 简约，尽量每个页面都不展示多余的内容。
-
-* 有时一图抵千言，有时可能只会拖慢网页加载速度。
-
-* 言之有物，不做无痛之呻吟。
-
-* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
-
-* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
-
-* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
-
-## 致谢
-
-本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
-
-[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2

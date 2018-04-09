@@ -58,7 +58,7 @@ git add .
 git commit - m "some thing you what"
 git push origin master
 ```
-然后会让你输账户密码，账户：3dincrement，密码：increment18
+然后会让你输账户密码，账户：3dincrement18，密码：increment18
 
 
 
