@@ -1,202 +1,224 @@
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "Printed Perforated Lampshades for Continuous Projective Images"
+  image: lamp.png
+  description:  ""
+  authors: Haisen Zhao, Lin Lu*, Yuan Wei, Dani Lischinski, Andrei Sharf, Daniel Cohen-Or, Baoquan Chen
   link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
+    url: ""
+    display: ACM Transactions on Graphics (TOG), 2016
   highlight: 1
-  news2: 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
+- title: "Dapper: Decompose-and-Pack for 3D Printing"
+  image: dap.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: MXuelin Chen, Hao Zhang, Jinjie Lin, Ruizhen Hu, Lin Lu, Qixing Huang, Bedrich Benes, Daniel Cohen-Or, Baoquan Chen
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+    url: ""
+    display: ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia 2015, Volume 34 Issue 6, October 2015
+  highlight: 1
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
+- title: "Poisson-Disk Sampling through Disk Packing"
+  image: PoissonDisk.png
   description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+  authors: Guanghui Liang, Lin Lu*, Zhonggui Chen, Chenglei Yang
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2: 
+    url: ""
+    display: Computational Visual Media, Volume 1, Issue 1, pp 17-26, March 2015
+  highlight: 1
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
+- title: "Build-to-Last: Strength to Weight 3D Printed Objects"
+  image: 3dpKitten.png
+  description: ""
   authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+    Lin Lu, Andrei Sharf, Haisen Zhao, Yuan Wei, Qingnan Fan, Xuelin Chen, Yann Savoye, Changhe Tu, Daniel Cohen-Or, Baoquan Chen 
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
+    url: ""
+    display: ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH 2014, Volume 33 Issue 4, July 2014
   highlight: 1
   
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
+- title: "Weak visibility polygons of NURBS curves inside simple polygons"
+  image: VisNURBS.jpg
   description: ""
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+    Cheng-Lei Yang, Wei-Zhen Wang, Yi-Jun Yang, Lin Lu, Zhi-Jie Zhu, Binhai Zhu, Wei Zeng
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
-  news2:
+    url: ""
+    display: Journal of Computational and Applied Mathematics, Volume 256, 15 January 2014, Pages 1-15
+  highlight: 1
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
+- title: "Content-aware Photo Collage Using Circle Packing"
+  image: PhotoCollageFlower.jpg
+  description: ""
   authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+    Zongqiao Yu, Lin Lu, Yanwen Guo, Rongfei Fan, Mingming Liu, Wenping Wang
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
+    url: ""
+    display: IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol.20(2), pp.182-195, February 2014
+  highlight: 1
+
+- title: "Centroidal Voronoi Tessellation of Streamlines for Flow Visualization"
+  image: Streamline.png
+  description: ""
+  authors:
+    Wenjie Liu, Lin Lu*, Bruno Lévy, Chenglei Yang & Xiangxu Meng
+  link:
+    url: ""
+    display: Tenth International Symposium on Voronoi Diagrams in Science and Engineering, ISVD 2013, pp. 75-81
+  highlight: 1
+
+- title: "Global Optimization of Centroidal Voronoi Tessellation with Monte Carlo Approach"
+  image: GlobalCVT.jpg
+  description: ""
+  authors:
+    Lin Lu, Feng Sun, Hao Pan & Wenping Wang
+  link:
+    url: ""
+    display: IEEE Transactions on Visualization and Computer Graphics (TVCG),Vol.18(11),pp.1880-1890, 2012
+  highlight: 1
+
+- title: "Centroidal Voronoi Tessellation of Line Segments and Graphs"
+  image: CVTGraph.jpg
+  description: ""
+  authors:
+    Lin Lu, Bruno Lévy & Wenping Wang
+  link:
+    url:""
     display: Nature Physics 9, 468 (2013) 
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+- title: "Point Visibility Computing in Polygons with Holes"
+  image: vispoly.jpg
+  description: ""
   authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+    Lin Lu, Chenglei Yang & Jiaye Wang
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
+    url: ""
+    display: Journal of Information & Computational Science, 2011, Vol.8(16), pp. 4165–4173
   highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+- title: "Visibility-Based Coverage of Mobile Sensors in Non-convex Domains"
+  image: sensor.jpg
+  description: ""
   authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+    Lin Lu, Yi-King Choi & Wenping Wan
   highlight: 1    
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: ""
+    display: Eighth International Symposium on Voronoi Diagrams in Science and Engineering, ISVD 2011, pp. 105 -111
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
+- title: "Voronoi-Based Potentially Visible Set and Visibility Query Algorithms"
+  image: vpvs.jpg
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2: 
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
   authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+    Lin Lu, Chenglei Yang, Wenping Wang & Junqing Zhang
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: ""
+    display: Eighth International Symposium on Voronoi Diagrams in Science and Engineering, ISVD 2011, pp. 234 -240
   highlight: 1
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: "On Centroidal Voronoi Tessellation-Energy Smoothness and Fast Computation"
+  image: cvt.jpg
+  description: ""
+  authors: Yang Liu, Wenping Wang, Bruno Lévy, Feng Sun, Dongming Yan, Lin Lu & Chenglei Yang
+  link:
+    url: ""
+    display: ACM Transactions on Graphics (TOG), 2009, Vol. 28, pp. 101:1-101:17
+  highlight: 1
+
+- title: "Variational 3D Shape Segmentation for Bounding Volume Computation"
+  image: EllBounding.jpg
+  description: ""
+  authors:
+    Lin Lu, Yi-King Choi, Wenping Wang & Myung-Soo Kim
+  link:
+    url: ""
+    display: Computer Graphics Forum(Eurographics 2007), Vol. 26, No. 3, pp. 329-338, 2007
+  highlight: 1
+
+- title: "A Lighting Design Algorithm in Complex Regions"
+  image: Pub_hBN.png
+  description: ""
+  authors: Jingru Wei, Lin Lu，Chenglei Yang
+  link:
+    url: ""
+    display: Journal of Computer-Aided Design & Computer Graphics, 2015, Vol. 27(10),pp.1944-1949
+  highlight: 0
+
+- title: "Time Prediction for Reyes Rendering Architecture based on AdaBoost.MH Algorithm"
+  image: Pub_hBN.png
+  description: ""
+  authors:
+    Qingli Meng, Lin Lu，Ying Jin & Xiangxu Meng
+  link:
+    url: ""
+    display: 14th China Conference on Machine Learning (CCML), August, 2013, Kunming; Computer Science,2014,41(2):76-81
+  highlight: 0
+
+- title: "An Algorithm for Visibility Computation of Points in Polygon"
+  image: Pub_hBN.png
+  description: ""
+  authors:
+    Haisen Zhao, Chenglei Yang, Lin Lu, Xiaoting Wang, Yi-Jun Yang & Xiangxu Meng
+  link:
+    url: ""
+    display: Journal of Computer-Aided Design & Computer Graphics, 2013, Vol. 25(3),pp.331-340 (CAD/CG 2012, Best Student Paper)
+  highlight: 0
+
+- title: "Natural Interaction Based Online Military Boxing Learning System"
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+    Chenglei Yang, Lu Wang, Bing Sun, Xu Yin, Xiaoting Wang, Li Liu, Lin Lu
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: ""
+    display: International Journal of Distance Education Technologies (IJDET),2013,11(3):98-108
+  highlight: 0
+
+- title: "Optimal Expected-Time Algorithms for Delaunay Triangulation of Uniform Sites"
+  image: dummy.png
+  description: ""
+  authors:
+    Jiaye Wang, Chenglei Yang, Caiming Zhang & Lin Lu
+  link:
+    url: ""
+    display: Journal of Computer-Aided Design & Computer Graphics, 2011, Vol. 23(12),pp.1949-1958
+  highlight: 0
+
+  - title: "Simple Flexible Skinning based on Manifold Modeling"
+  image: dummy.png
+  description: ""
+  authors:
+    Franck Hétroy, Cédric Gérot, Lin Lu & Boris Thibert
+  link:
+    url: ""
+    display: GRAPP 2009 - Fourth International Conference on Computer Graphics Theory and Applications 2009, pp. 259-265
+  highlight: 0
+
+  - title: "A Semantic Web based Model for Product Cooperative Design"
+  image: dummy.png
+  description: ""
+  authors:
+    Yanning Xu, Lin Lu, Wei Ren & Xiangxu Meng
+  link:
+    url: ""
+    display: Ninth International Conference on Computer Supported Cooperative Work in Design(CSCWD 2005), Vol. 2, pp. 1177-1182, 2005
+  highlight: 0
+
+  - title: "A Hierarchical Semantic Model for Complex Products"
+  image: dummy.png
+  description: ""
+  authors:
+    Lin Lu, Xiangxu Meng & Yanning Xu
+  link:
+    url: ""
+    display: China Mechanical Engineering, 2004, Vol. 15(15), pp. 1357-1361
+  highlight: 0
+
+  - title: "Knowledge-Based Hierarchical Model Supporting Parametric Design"
+  image: dummy.png
+  description: ""
+  authors:
+    Yanning Xu, Xiangxu Meng & Lin Lu
+  link:
+    url: ""
+    display: Journal of Computer-Aided Design & Computer Graphics, 2004, Vol. 16(10), pp. 1430-1436
   highlight: 0
