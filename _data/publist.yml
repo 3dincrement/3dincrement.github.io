@@ -183,7 +183,7 @@
     display: Journal of Computer-Aided Design & Computer Graphics, 2011, Vol. 23(12),pp.1949-1958
   highlight: 0
 
-  - title: "Simple Flexible Skinning based on Manifold Modeling"
+- title: "Simple Flexible Skinning based on Manifold Modeling"
   image: dummy.png
   description: ""
   authors:
@@ -193,7 +193,7 @@
     display: GRAPP 2009 - Fourth International Conference on Computer Graphics Theory and Applications 2009, pp. 259-265
   highlight: 0
 
-  - title: "A Semantic Web based Model for Product Cooperative Design"
+- title: "A Semantic Web based Model for Product Cooperative Design"
   image: dummy.png
   description: ""
   authors:
@@ -203,7 +203,7 @@
     display: Ninth International Conference on Computer Supported Cooperative Work in Design(CSCWD 2005), Vol. 2, pp. 1177-1182, 2005
   highlight: 0
 
-  - title: "A Hierarchical Semantic Model for Complex Products"
+- title: "A Hierarchical Semantic Model for Complex Products"
   image: dummy.png
   description: ""
   authors:
@@ -213,7 +213,7 @@
     display: China Mechanical Engineering, 2004, Vol. 15(15), pp. 1357-1361
   highlight: 0
 
-  - title: "Knowledge-Based Hierarchical Model Supporting Parametric Design"
+- title: "Knowledge-Based Hierarchical Model Supporting Parametric Design"
   image: dummy.png
   description: ""
   authors:
