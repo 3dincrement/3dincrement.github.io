@@ -44,7 +44,7 @@ permalink: /member/
 	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
 	  <i>{{ member.info }}
-	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="{{ member.github }}">{{ member.github }}</a></i>
+	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></i>
 	</div>
 </div>
 <br>
@@ -129,7 +129,7 @@ permalink: /member/
 	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
 	  <i>{{ member.info }}
-	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="{{ member.github }}">{{ member.github }}</a></i>
+	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></i>
 	</div>
 </div>
 <br>
@@ -214,7 +214,7 @@ permalink: /member/
 	<div class="col-sm-8 col-sm-push-1">
 	  <h4>{{ member.name }}</h4>
 	  <i>{{ member.info }}
-	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="{{ member.github }}">{{ member.github }}</a></i>
+	  <br>email: <a href="{{ member.email }}">{{ member.email }}</a><br>github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></i>
 	</div>
 </div>
 <br>
