@@ -8,12 +8,9 @@ menu: 团队
 permalink: /member/
 ---
 
- **我们期待热情又有趣的你们的加入！** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **我们期待热情又有趣的你们的加入！** [(see openings)]({{ site.url }}{{ site.baseurl }}/) **!**
 
 
-移动到 [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.members %}
 
@@ -23,10 +20,18 @@ permalink: /member/
 <div class="row">
 {% endif %}
 
+{% assign homepath = '#' %}
+{% if site.member | where:member.name %}
+{% homepage = site.url | append:site.baseurl |append:'/member' |append:member.name %}
+{% endif %}
+{% if site.data.homepage != '' %}
+{% homepath = site.date.homepage %}
+{% endif %}
+
 <div class="col-sm-6 ">
 <div class="row">
 	<div class="col-sm-3 col-sm-push-1 center-block"><br>
-		<a href="{{ site.url }}{{ site.baseurl }}/member/{{ member.name }}"  >	
+		<a href="{{ homepath }}"  >	
 		<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class=" img-responsive img-rounded"/></a>
 	</div>
 	<div class="col-sm-8 col-sm-push-1">

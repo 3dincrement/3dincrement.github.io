@@ -3,158 +3,176 @@
   info: 副教授
   email: lulin.linda@gmail.com
   github: lulinlinda
+  homepage:
   number_educ: 3
   education1: 学士 1998-2002 山东大学 计算机科学与技术
   education2: 硕士 2002-2005 山东大学 计算机科学与技术
-  education3: 博士 2005-2011 香港大学 导师： <a href="http://i.cs.hku.hk/~wenping/">王文平</a>
+  education3: 博士 2005-2011 香港大学 
  
 - name: 闫鑫
   photo: yanxinpic.JPG
   info: 博士在读
   email: io.yanxin@gmail.com
   github: RingedNebulae
+  homepage:
   number_educ: 3
   education1: 学士 2010-2014 山东大学 机械设计及其自动化
   education2: 硕士 2014-2017 山东大学 机械电子工程 导师： <a href="http://www.mech.sdu.edu.cn/info/1127/121172.htm">张承瑞</a>
-  education3: 博士 2017-     山东大学 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education3: 博士 2017-     山东大学 
  
 - name: 周宇
   photo: zhouyu.jpg
   info: 博士在读
   email: zhouyu3026@gmail.com
   github: zhouyu636493
+  homepage:
   number_educ: 3
   education1: 学士 2011-2015 东北大学 计算机科学与技术
   education2: 硕士 2015-2018 东北大学 计算机应用技术 
-  education3: 博士 2018-     山东大学 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education3: 博士 2018-     山东大学 
 
 - name: 刘霖
   photo: LiuLin.jpg
-  info: 硕士在读
+  info: 研究生在读
   email: lorrain0407@gmail.com
   github: lorrain0407
+  homepage:
   number_educ: 2
   education1: 学士 2012-2016 山东科技大学 数字媒体技术
-  education2: 硕士 2016-     山东大学 软件工程 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2016-     山东大学 软件工程 
 
 - name: 刘晓康
   photo: lxk.jpg
-  info: 硕士在读
+  info: 研究生在读
   email: lxk811@gmail.com
   github: LLLiuxk 
+  homepage:
   number_educ: 2
   education1: 学士 2012-2016 郑州大学 计算机科学与技术
-  education2: 硕士 2016-     导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2016-     山东大学 计算机科学与技术
  
 - name: 杨静如
   photo: jingru.png
-  info: 硕士在读
+  info: 研究生在读
   email: jingru.jem@gmail.com
   github: JemRu
+  homepage:
   number_educ: 2
-  education1: 学士 2013-2017 山东大学 计算科学与技术
-  education2: 硕士 2017-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education1: 学士 2013-2017 山东大学 计算机科学与技术
+  education2: 研究生在读 2017-     山东大学 计算机科学与技术 
   
 - name: 徐凡
   photo: xufan.jpg
-  info: 硕士在读
+  info: 研究生在读
   email: xufan.cs, irc@gmail.com
   github: duoyikeladetang
+  homepage:
   number_educ: 2
   education1: 学士 2013-2017 山东大学 软件工程
-  education2: 硕士 2013-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2013-     山东大学 计算机科学与技术
 
 - name: 饶聪
   photo: raocong.jpg
-  info: 硕士在读
+  info: 研究生在读
   email: raocong95@gmail.com
   github: raocong95
+  homepage:
   number_educ: 2
   education1: 学士 2013-2017 山东大学 计算机科学与技术
-  education2: 硕士 2017-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2017-     山东大学 计算机科学与技术
 
 - name: 彭昊
   photo: penghao.jpg
-  info: 硕士在读
+  info: 研究生在读
   email: ph1994wh@gmail.com
   github: swannyPeng
+  homepage:
   number_educ: 2
   education1: 学士 2013-2017 山东大学 计算机科学与技术
-  education2: 硕士 2017-     山东大学 计算机科学与技术 导师： <a href="https://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2017-     山东大学 计算机科学与技术
 
 - name: 田李昊
   photo: tlh.png
   info: 本科在读
   email: tianlihao0420@gmail.com
   github: TianliHao
+  homepage:
   number_educ: 2
   education1: 学士 2014-2018 山东大学 泰山学堂
-  education2: 硕士 2018- 山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2018- 山东大学 计算机科学与技术
 
 - name: 陈明海
   photo: cmh.jpeg
   info: 本科在读
   email: nevre0598@gmail.com
   github: nevre
+  homepage:
   number_educ: 2
   education1: 学士 2014-2018 山东大学 数字媒体技术
-  education2: 硕士 2018-     山东大学 计算机科学与技术 导师： <a href="http://vr.sdu.edu.cn/~lulin/">吕琳</a>
+  education2: 研究生在读 2018-     山东大学 计算机科学与技术
 
 - name: 赵文慧
   photo: wenhui.jpg
   info: 本科在读
   email: wenhuizhao97@gmail.com
   github: nazinanuoni
+  homepage:
   number_educ: 1
-  education1: 学士 2015- 山东大学 计算机科学与技术
+  education1: 本科在读 2015- 山东大学 计算机科学与技术
 
 - name: 武昱
   photo: wy.jpg
   info: 本科在读
   email: wuyu19970801@gmail.com
   github: hands133
+  homepage:
   number_educ: 1
-  education1: 学士 2016- 山东大学 计算机科学与技术
+  education1: 本科在读 2016- 山东大学 计算机科学与技术
 
 - name: 严国俊
   photo: ygj.jpg
   info: 本科在读
   email: 554351301@qq.com
   github: yanguojun123
+  homepage:
   number_educ: 1
-  education1: 学士 2016- 山东大学 计算机科学与技术
+  education1: 本科在读 2016- 山东大学 计算机科学与技术
 
 - name: 郑文杰
   photo: zwj.jpg
   info: 本科在读
   email: 892996138@qq.com
   github: Yigerrr
+  homepage:
   number_educ: 1
-  education1: 学士 2017- 山东大学 计算机科学与技术
+  education1: 本科在读 2017- 山东大学 计算机科学与技术
 
 - name: 徐瑞
   photo: xr.jpg
   info: 本科在读
   email: xrvitd@163.com
   github: Xrvitd
+  homepage:
   number_educ: 1
-  education1: 学士 2017- 山东大学 计算机科学与技术
+  education1: 本科在读 2017- 山东大学 计算机科学与技术
 
 - name: 苑宗鹤
   photo: yuan_photo.jpeg
   info: 本科在读
   email: qq295087430@outlook.com
   github: yuandiaodiaodiao
+  homepage:
   number_educ: 1
-  education1: 学士 2017- 山东大学 计算机科学与技术
+  education1: 本科在读 2017- 山东大学 计算机科学与技术
 
 - name: 曲晓阳
   photo: qxy.jpg
   info: 本科在读
   email: qxy0zero@gmail.com
   github: quxiaoyang0zero
+  homepage:
   number_educ: 1
-  education1: 学士 2017- 山东大学 计算机科学与技术
+  education1: 本科在读 2017- 山东大学 计算机科学与技术
 
 
 
