@@ -22,7 +22,7 @@ permalink: /member/
 
 {% assign homepath = '#' %}
 {% if site.member | where:member.name %}
-{% homepage = site.url | append:site.baseurl |append:'/member' |append:member.name %}
+{% homepath = site.url | append:site.baseurl |append:'/member' |append:member.name %}
 {% endif %}
 {% if site.data.homepage != '' %}
 {% homepath = site.date.homepage %}

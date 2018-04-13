@@ -8,7 +8,7 @@ title: 3D Increment
 subtitle: "3D 打印改变生活"
 description: "3D increment blog"
 keywords: 3D printing, increment, recruit
-timezone: Asia/Shanghai
+#timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
