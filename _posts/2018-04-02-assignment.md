@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3D打印项目二面题目
-categories: assignment
+categories: Assignment
 description: 二面题目
 keywords: assignment
 ---
