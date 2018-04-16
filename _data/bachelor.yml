@@ -25,6 +25,14 @@
   number_educ: 1
   education1: 本科在读 2016- 山东大学 计算机科学与技术
 
+- name: 石琰
+  photo: sy.jpg
+  info: 本科在读
+  email: shiyannacl@gmail.com
+  github: shiyan-NaCl
+  number_educ: 1
+  education1: 本科在读 2016- 山东大学 计算机科学与技术
+
 - name: 郑文杰
   photo: zwj.jpg
   info: 本科在读
@@ -60,6 +68,9 @@
   homepage:
   number_educ: 1
   education1: 本科在读 2017- 山东大学 计算机科学与技术
+
+
+
 
 
 
