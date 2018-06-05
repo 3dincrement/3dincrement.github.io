@@ -3,7 +3,7 @@
   info: 本科在读
   email: wenhuizhao97@gmail.com
   github: nazinanuoni
-  homepage:
+  homepage: https://nazinanuoni.github.io/
   number_educ: 1
   education1: 本科在读 2015- 山东大学 计算机科学与技术
 
@@ -12,7 +12,7 @@
   info: 本科在读
   email: wuyu19970801@gmail.com
   github: hands133
-  homepage:
+  homepage: https://hands133.github.io/
   number_educ: 1
   education1: 本科在读 2016- 山东大学 计算机科学与技术
 
@@ -21,7 +21,7 @@
   info: 本科在读
   email: 554351301@qq.com
   github: yanguojun123
-  homepage:
+  homepage: https://yanguojun123.github.io/
   number_educ: 1
   education1: 本科在读 2016- 山东大学 计算机科学与技术
 
@@ -30,6 +30,7 @@
   info: 本科在读
   email: shiyannacl@gmail.com
   github: shiyan-NaCl
+  homepage: https://shiyan-nacl.github.io/
   number_educ: 1
   education1: 本科在读 2016- 山东大学 计算机科学与技术
 
@@ -38,7 +39,7 @@
   info: 本科在读
   email: 892996138@qq.com
   github: Yigerrr
-  homepage:
+  homepage: https://blog.csdn.net/qq_39978376
   number_educ: 1
   education1: 本科在读 2017- 山东大学 计算机科学与技术
 
@@ -47,7 +48,7 @@
   info: 本科在读
   email: xrvitd@163.com
   github: Xrvitd
-  homepage:
+  homepage: https://blog.csdn.net/xu326057825
   number_educ: 1
   education1: 本科在读 2017- 山东大学 计算机科学与技术
 
@@ -56,7 +57,7 @@
   info: 本科在读
   email: qq295087430@outlook.com
   github: yuandiaodiaodiao
-  homepage:
+  homepage: https://yuandiaodiaodiao.cn
   number_educ: 1
   education1: 本科在读 2017- 山东大学 计算机科学与技术
 
@@ -65,10 +66,27 @@
   info: 本科在读
   email: qxy0zero@gmail.com
   github: quxiaoyang0zero
-  homepage:
+  homepage: 
   number_educ: 1
   education1: 本科在读 2017- 山东大学 计算机科学与技术
 
+- name: 田洪涛
+  photo: 田洪涛.jpeg
+  info: 本科在读
+  email: 2317947715@qq.com
+  github: kaimss
+  homepage: https://kaimss.github.io
+  number_educ: 1
+  education1: 本科在读 2016- 山东大学 计算机科学与技术
+  
+- name: 张涵
+  photo: 张涵.jpeg
+  info: 本科在读
+  email: 1241094516@gmail.com
+  github: Godsolve
+  homepage: https://Godsolve.github.io
+  number_educ: 1
+  education1: 本科在读 2016- 山东大学 计算机科学与技术
 
 
 
